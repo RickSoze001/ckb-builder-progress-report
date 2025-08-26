@@ -11,3 +11,11 @@
 #### Introduction to Nervos CKB
 - **Nervos blockchain basics**
 - **Architecture, programming and consensus basics**
+
+#### Comparison BTC vs CKB
+- **UTXO vs Cell model**
+- **BTC Script vs CKB Script**
+- **BTC Transaction vs CKB Transaction**
+
+#### Cell Model
+- **In-depth look of the structure, advantages and scalability**
