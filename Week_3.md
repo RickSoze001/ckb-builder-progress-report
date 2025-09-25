@@ -16,3 +16,7 @@
 - **VM Selection and Version for scripts to provide flexibility**
 - **Upgradable Scripts**
 - **Debugging overview with CKB-Debugger**
+
+#### Dapp Tutorials
+- **Transfer CKB**
+- **Transfer worked, but only after changing the port in rpc_url: 'http://127.0.0.1:9000' to 'https://localhost:8114' in offckb config file, maybe it should be mentioned in the docs**
