@@ -15,3 +15,7 @@
 - <img width="1327" height="249" alt="image" src="https://github.com/user-attachments/assets/b802c671-d0f5-4f21-b2fe-a5a30956ade4" />
 - <img width="1347" height="279" alt="image" src="https://github.com/user-attachments/assets/0cfc3035-d33a-4643-822c-023a63dedd70" />
 - <img width="1347" height="329" alt="image" src="https://github.com/user-attachments/assets/783276bd-d4ba-4e97-a544-74878fcf7fec" />
+
+- **Create a DOB**
+- <img width="923" height="536" alt="Screenshot 2025-11-06 at 18 34 54" src="https://github.com/user-attachments/assets/91ee7fd8-dbf5-43ba-8c22-c53f00769e64" />
+- <img width="714" height="514" alt="Screenshot 2025-11-06 at 18 39 24" src="https://github.com/user-attachments/assets/141804dc-db0d-4533-97e6-df32245dc906" />
